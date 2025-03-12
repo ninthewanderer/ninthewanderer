@@ -1,6 +1,6 @@
 ## 🌌 Welcome to my page! 🌌
 
-- 🌻 My name is Chandler/Ninthe and I'm a game programmer!
+- 🌻 My name is Chandler and I'm a game programmer!
 - 🌠 I'm an undergraduate at the University of Central Florida working on a game design B.A. and a computer science minor.
 - 🌻 I love cats, horror, psychology, and detective fiction.
 
