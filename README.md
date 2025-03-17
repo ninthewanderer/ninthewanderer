@@ -11,6 +11,6 @@
 
 <br/>
 
-- 🌠 If you're interested in a more official representation of my work, here's my [portfolio](https://ninthewanderer.wixsite.com/ninthewanderer).
+- 🌠 For a more official representation of my work, here's my [portfolio](https://ninthewanderer.wixsite.com/ninthewanderer).
 - 🌻 I also have an [itch.io](https://ninthewanderer.itch.io) where you can find my games. 
 - 🌠 You can find me on [LinkedIn](https://www.linkedin.com/in/chandler-guzman-a9b56b2a4/) as well.
