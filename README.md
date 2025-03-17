@@ -1,4 +1,4 @@
-## 🌌 Welcome to my page! 🌌
+<center><h1> 🌌 Welcome to my page! 🌌 </h1></center>
 
 - 🌻 My name is Chandler and I'm a game programmer & designer!
 - 🌠 I'm an undergraduate at the University of Central Florida working on a game design B.A. and a computer science minor.
