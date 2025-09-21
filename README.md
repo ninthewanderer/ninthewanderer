@@ -12,5 +12,5 @@
 <br/>
 
 - 🌠 I have an [itch.io](https://ninthewanderer.itch.io) where you can play my games. 
-- 🌻 You can find me on [LinkedIn](https://www.linkedin.com/in/chandler-guzman-a9b56b2a4/) as well.
+- 🌻 You can find me on [LinkedIn](https://www.linkedin.com/in/ninthewanderer) as well.
 - 🌠 A summary of my projects and experience can be found in my [portfolio](https://ninthewanderer.wixsite.com/portfolio).
