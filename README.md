@@ -1,9 +1,9 @@
 [//]: # (Title.)
 <h1>
   <p align="center"> 
-  <img src="./Images/hero_wave.png" alt="Hero from OMORI waving" width="32" height="32"> 
+  <img src="./Images/hero_wave.png" alt="Hero from OMORI waving" width="50" height="50"> 
   Hello & Welcome! 
-  <img src="./Images/mari_wave.png" alt="Mari from OMORI waving" width="32" height="32"> 
+  <img src="./Images/mari_wave.png" alt="Mari from OMORI waving" width="50" height="50"> 
 </h1>
 
 [//]: # (Markdown buttons!)
